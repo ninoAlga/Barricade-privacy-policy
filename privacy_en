@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Volvox Launcher</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        ul {
+            margin-top: 0;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy – Barricade</h1>
+    <p><strong>Last updated:</strong> March 2, 2026</p>
+    <p>Barricade takes your privacy very seriously. This policy explains what information is collected, how it is used, and what rights you have as a user.</p>
+
+    <h2>1. Information We Do Not Collect</h2>
+    <p>Barricade <strong>does not collect, store, or share personal data</strong> such as your name, email address, location, or browsing history.</p>
+
+    <h2>2. Accessibility</h2>
+    <p>To provide <strong>selected app and website blocking features</strong>, Barricade requests access to your device’s <strong>accessibility service</strong>.</p>
+    <ul>
+        <li>This permission is <strong>only used to detect which apps and websites are being used</strong>.</li>
+        <li>No information is sent to external servers. Everything is processed <strong>locally on your device</strong>.</li>
+    </ul>
+
+    <h2>3. Camera</h2>
+    <p>To provide <strong>QR code and barcode scanning features</strong>, Barricade requests access to your device’s <strong>camera</strong>.</p>
+    <ul>
+        <li>This permission is <strong>only used to scan QR codes and barcodes when unlocking an app or website</strong>.</li>
+        <li>No information is sent to external servers. Everything is processed <strong>locally on your device</strong>.</li>
+    </ul>
+
+    <h2>4. User Rights</h2>
+    <ul>
+        <li><strong>Right to Information:</strong> You may know what the app does with information, even if it is minimal.</li>
+        <li><strong>Right to Transparency:</strong> You may access this privacy policy at any time.</li>
+        <li><strong>Right to Withdraw Permissions:</strong> You may revoke accessibility permissions from your device settings at any time after scanning the codes you configured.</li>
+        <li><strong>Right to Contact the Developer:</strong> For privacy-related questions or concerns, you may email the address listed below.</li>
+    </ul>
+
+    <h2>5. Policy Changes</h2>
+    <p>We reserve the right to update this policy. Any changes will be posted in this section and notified within the app when relevant.</p>
+
+    <h2>6. Contact</h2>
+    <p>If you have questions about this policy, you may contact me:<br>
+    <strong>Email:</strong> <a href="mailto:nino.algae@gmail.com">nino.algae@gmail.com</a></p>
+</body>
+</html>
